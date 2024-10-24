@@ -72,7 +72,7 @@ MTP
 Hardware
 --------
 
-- `Facedancer <http://goodfet.sourceforge.net/hardware/facedancer21/>`_
+- `Facedancer21 <http://goodfet.sourceforge.net/hardware/facedancer21/>`_
   is the recommended hardware for Umap2.
   Umap2 was developed based on it, and you'll get the most support with it.
 - `Raspdancer <http://wiki.yobi.be/wiki/Raspdancer>` is supported on RPi
